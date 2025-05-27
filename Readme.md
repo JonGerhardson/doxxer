@@ -1,6 +1,8 @@
 When you hate standing at the clerk's counter, and/or are also too broke for photocopies. 
 
-Quick and dirty, good enough for a ctrl + f tho. Might make a more advanced version that runs in a docker container just so it can be called doxxer-docker. 
+**doxxer.sh** will automatically convert a folder of hastily photographed documents to hastily rotated, cropped, de-skewed PDFs with text (kinda). 
+
+Quick and dirty, good enough for a ctrl + f. Might make a more advanced version that runs in a docker container just so it can be called doxxer-docker. 
 
 **Usage**
 - have .jpg images in a directory, preferbly by themselves as this will convert every .jpg present. 
