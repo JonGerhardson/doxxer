@@ -2,9 +2,10 @@ When you hate standing at the clerk's counter, and/or are also too broke for pho
 
 **doxxer.sh** will automatically convert a folder of hastily photographed documents to hastily rotated, cropped, de-skewed PDFs with text (kinda). Does little bit of futzing to straighten the images correctly, but not super duper great on complex forms or super blurry stuff. 
 
-Not meant as a replacement for anything you'd present or publish unless maybe you're into that. 
 
-Quick and dirty, good enough for a ctrl + f. Might make a more advanced version that runs in a docker container just so it can be called doxxer-docker. 
+Quick and dirty, good enough for a ctrl + f. Not meant as a replacement for anything you'd present or publish unless maybe you're into that. 
+
+Might make a more advanced version that runs in a docker container just so it can be called doxxer-docker. If you're smarter than me at this please make that. I really hate using the scanner app on my phone. 
 
 **Usage**
 - have .jpg images in a directory, preferbly by themselves as this will convert every .jpg present. 
