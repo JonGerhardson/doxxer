@@ -14,6 +14,15 @@ bash doxxer.sh
 wait. 
 Original version is unchanged, pdf output is saved to a new folder. Output is greyscale 300 dpi. 
 
+**Do it faster**
+
+Run jobs in parallel if you have a fast computer by setting the --Iama  or -I flag in your command. 
+You can now use doxxer like this:
+
+   ```./doxxer.sh --Iama creep my_images_dir``` will run two jobs in parllel
+   
+  ```  ./doxxer.sh -I creeeep``` will run four jobs in parlallel
+
 **To install dependencies:**
 
     ImageMagick (for convert):
@@ -34,4 +43,4 @@ Original version is unchanged, pdf output is saved to a new folder. Output is gr
         macOS (Homebrew): brew install unpaper
 
 
-Remember to run these commands in your terminal. If you're on a different Linux distribution, the package manager command (e.g., yum, dnf, pacman) and package names might vary slightly.
+License cc0
