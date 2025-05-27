@@ -20,4 +20,6 @@ The script uses:
 
     img2pdf (Python package) for PDF merging
 
+If you run into issues make sure these packages are installed first. 
+
 CC0 -- go nuts
