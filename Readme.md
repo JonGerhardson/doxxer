@@ -1,6 +1,6 @@
 When you hate standing at the clerk's counter, and/or are also too broke for photocopies. 
 
-**doxxer.sh** will automatically convert a folder of hastily photographed documents to hastily rotated, cropped, de-skewed PDFs with text (kinda). Does little bit of futzing to straighten the images correctly, but not super duper great on complex forms or super blurry stuff. Defaults to English language, can be changed ion Congifuration block at beginning of script to whatever Tesseract uses. 
+**doxxer.sh** will automatically convert a folder of hastily photographed documents to hastily rotated, cropped, de-skewed PDFs with text (kinda). Does little bit of futzing to straighten the images correctly, but not super duper great on complex forms or super blurry stuff. Defaults to English language, can be changed in the congifuration block at beginning of script to whatever Tesseract uses. 
 
 Quick and dirty, good enough for a ctrl + f. Not meant as a replacement for anything you'd present or publish unless maybe you're into that. 
 
