@@ -14,7 +14,7 @@ bash doxxer.sh
 wait. 
 Original version is unchanged, pdf output is saved to a new folder. Output is greyscale 300 dpi. 
 
-**Do it faster**
+**Do it faster **
 
 Run jobs in parallel if you have a fast computer by setting the --Iama  or -I flag in your command. 
 You can now use doxxer like this:
@@ -23,7 +23,16 @@ You can now use doxxer like this:
    
   ```  ./doxxer.sh -I creeeep``` will run four jobs in parlallel
 
-**To install dependencies:**
+It will try to run as many jobs at once as the number of letter 'e's you enter. 
+
+   ```./doxxer.sh --Iama creeeeeeeeeeeeeeeeeeeep ``` will probably make your computer crash I have not tried it. 
+
+I take no responsibility for anything. Do not use this under any circumstances. Don't try to sue me or I'll cry. 
+
+License cc0
+
+
+**To install dependencies:** (if needed)
 
     ImageMagick (for convert):
         Debian/Ubuntu: sudo apt install imagemagick
@@ -43,4 +52,3 @@ You can now use doxxer like this:
         macOS (Homebrew): brew install unpaper
 
 
-License cc0
