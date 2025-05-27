@@ -20,3 +20,4 @@ The script uses:
 
     img2pdf (Python package) for PDF merging
 
+CC0 -- go nuts
